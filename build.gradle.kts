@@ -35,5 +35,5 @@ tasks {
 }
 
 application {
-    mainClass.set("$group.RegexChecker")
+    mainClass.set("$group.RegexCheckerKt")
 }
